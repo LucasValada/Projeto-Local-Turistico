@@ -22,20 +22,29 @@ Você pode visualizar o layout original no Figma:
 ## 📂 Estrutura do Projeto
 
 📁 Projeto-Local-Turistico
+
 ├── imgs/
+
 ├── index.html
+
 ├── LocalTuristico.png
+
 ├── README.md
+
 └── style.css/
 
 ## 🧪 Como executar o projeto
-
-1. Clone o repositório:
-
 ```bash
+1. Clone o repositório:
 git clone https://github.com/LucasValada/Projeto-Local-Turistico.git
-cd Projeto-Local-Turistico
-Abra o arquivo index.html no navegador:
-    Clique duas vezes sobre ele OU
-    Use a extensão Live Server no VSCode.
 ```
+```bash
+2. Acesse a pasta:
+cd Projeto-Local-Turistico
+```
+```bash
+3. Abra o arquivo index.html no navegador:
+Clique duas vezes sobre ele OU
+Use a extensão Live Server no VSCode.
+```
+
